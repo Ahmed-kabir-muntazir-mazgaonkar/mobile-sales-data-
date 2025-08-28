@@ -4,7 +4,10 @@
 ## 📷 Dashboard Preview  
 
 ### 🔹 Main Dashboard  
-![Mobile Sales Dashboard]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 130334.png")
+![Mobile Sales Dashboard](##  Dashboard Preview
+
+![Mobile Sales Dashboard](Screenshot%202025-08-28%20130334.png)
+
 This project is a Mobile Sales Dashboard built in Power BI to analyze and visualize sales performance of different mobile brands and models across multiple cities.
 
 The dashboard provides insights into:
